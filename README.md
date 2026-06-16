@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm `Vaibhav Pandey` 👋
 
-<!--
-**xyron24/xyron24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/xyron/) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github\&logoColor=white)](https://xyronportfolio.vercel.app/) [![Codeforces](https://img.shields.io/badge/-Codeforces-1f2833?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/xyron.24) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef\&logoColor=white)](https://www.codechef.com/users/xyron24)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Vaibhav Pandey** (github: `xyron24`).
+
+I like to build stuff and solve algorithmic problems. I'm a competitive programmer and a Backend Developer.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <!--
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+  -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-MERN-7B68EE?logo=stack&logoColor=white" alt="MERN"/>
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
+  
+</p>
+
+---
+<!-- Codeforces Card -->
+<p align="center">
+  <a href="https://codeforces.com/profile/xyron.24">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=xyron.24&theme=tokyonight" alt="Codeforces Stats"/>
+  </a>
+</p>
+## 📊 GitHub Stats & Trophies
+
+
+<!-- GitHub readme stats -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xyron24\&show_icons=true\&theme=tokyonight\&count_private=true)
+
+<!-- Top languages -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyron24\&layout=compact\&theme=tokyonight)
+
+<!-- Streak stats -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xyron24\&date_format=%5BY-%5Dm-%5Dd\&theme=dark)
+
+<!-- Profile trophies -->
+
+
+## 🏆 Extra Badges & Coding Stats
+
+* **Codeforces**: [xyron.24](https://codeforces.com/profile/xyron.24)
+* **CodeChef**: [xyron24](https://www.codechef.com/users/xyron24)
+---
+## 📫 Contact
+
+* Email: [officialvaibhav22@gmail.com](mailto:officialvaibhav22@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/xyron](https://www.linkedin.com/in/xyron)
+
+---

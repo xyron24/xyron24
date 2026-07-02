@@ -1,8 +1,8 @@
-# Hi, I'm `Vaibhav Pandey` 👋
+Hi, I'm `Vaibhav Pandey` 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/xyron/) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github\&logoColor=white)](https://xyronportfolio.vercel.app/) [![Codeforces](https://img.shields.io/badge/-Codeforces-1f2833?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/xyron.24) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef\&logoColor=white)](https://www.codechef.com/users/xyron24)
 
-## 🚀 About Me
+🚀 About Me
 
 I'm **Vaibhav Pandey** (github: `xyron24`).
 
@@ -10,7 +10,7 @@ I like to build stuff and solve algorithmic problems. I'm a competitive programm
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
@@ -35,7 +35,7 @@ I like to build stuff and solve algorithmic problems. I'm a competitive programm
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=xyron.24&theme=tokyonight" alt="Codeforces Stats"/>
   </a>
 </p>
-## 📊 GitHub Stats & Trophies
+📊 GitHub Stats & Trophies
 
 
 <!-- GitHub readme stats -->
@@ -54,12 +54,12 @@ I like to build stuff and solve algorithmic problems. I'm a competitive programm
 <!-- Profile trophies -->
 
 
-## 🏆 Extra Badges & Coding Stats
+🏆 Extra Badges & Coding Stats
 
 * **Codeforces**: [xyron.24](https://codeforces.com/profile/xyron.24)
 * **CodeChef**: [xyron24](https://www.codechef.com/users/xyron24)
 ---
-## 📫 Contact
+📫 Contact
 
 * Email: [officialvaibhav22@gmail.com](mailto:officialvaibhav22@gmail.com)
 * LinkedIn: [https://www.linkedin.com/in/xyron](https://www.linkedin.com/in/xyron)

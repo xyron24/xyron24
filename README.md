@@ -40,7 +40,7 @@ I like to build stuff and solve algorithmic problems. I'm a competitive programm
 
 <!-- GitHub readme stats -->
 
-![](https://github-readme-stats.shion.dev/api?username=xyron24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xyron24?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- Streak stats -->
 

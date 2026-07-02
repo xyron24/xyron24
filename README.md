@@ -40,15 +40,15 @@ I like to build stuff and solve algorithmic problems. I'm a competitive programm
 
 <!-- GitHub readme stats -->
 
-![](https://github-readme-stats.shion.dev/api?username=xyron24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=xyron24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 <!-- Streak stats -->
 
-![](https://streak-stats.demolab.com/?user=xyron24&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=xyron24&theme=tokyonight&hide_border=false)
 
 <!-- Top languages -->
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=xyron24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=xyron24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!-- Profile trophies -->

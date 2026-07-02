@@ -40,7 +40,7 @@ I like to build stuff and solve algorithmic problems. I'm a competitive programm
 
 <!-- GitHub readme stats -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xyron24\&show_icons=true\&theme=tokyonight\&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xyron24&theme=dark)](https://git.io/streak-stats)
 
 <!-- Top languages -->
 

@@ -1,67 +1,29 @@
-## Hi, I'm `Vaibhav Pandey` 👋
+<h2 align="left">Hi 👋! I'm Vaibhav Pandey</h2>
+<img align="right" width="140" height="140" src="https://media.tenor.com/mKMXJtjSv7YAAAAi/peachcat-new.gif"  />
+<p><em>Student at <a target="_blank" href="https://www.aitpune.com/">Army Institute of Technology, Pune↝</a></br>I love solving problems and watch anime</a></em></p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/xyron/) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github\&logoColor=white)](https://xyronportfolio.vercel.app/) [![Codeforces](https://img.shields.io/badge/-Codeforces-1f2833?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/xyron.24) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef\&logoColor=white)](https://www.codechef.com/users/xyron24)
+### 🔧&nbsp; `Languages and Tools`
 
-## 🚀 About Me
+[![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,express,react,mongodb,python,c++,java)](https://skillicons.dev)
+###
 
-I'm **Vaibhav Pandey** (github: `xyron24`).
 
-I like to build stuff and solve algorithmic problems. I'm a competitive programmer and a Backend Developer.
 
----
+### 📊&nbsp; `My Stats`
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=xyron24&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</div>
 
-## 🛠️ Tech Stack
+###
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"/>
-  <!--
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
-  -->
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-MERN-7B68EE?logo=stack&logoColor=white" alt="MERN"/>
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
-  
-</p>
 
----
-<!-- Codeforces Card -->
-<p align="center">
-  <a href="https://codeforces.com/profile/xyron.24">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=xyron.24&theme=tokyonight" alt="Codeforces Stats"/>
+### 🤝&nbsp; `Let's Connect`
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/xyron/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=VAIBHAV&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</p>
+  
+</div>
 
-## GitHub Stats & Trophies
-
-<!-- GitHub readme stats -->
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xyron24?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-<!-- Streak stats -->
-
-![](https://streak-stats.demolab.com/?user=xyron24&theme=tokyonight&hide_border=false)
-
-<!-- Top languages -->
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=xyron24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<!-- Profile trophies -->
-
-
-## 🏆 Extra Badges & Coding Stats
-
-* **Codeforces**: [xyron.24](https://codeforces.com/profile/xyron.24)
-* **CodeChef**: [xyron24](https://www.codechef.com/users/xyron24)
----
-## 📫 Contact
-
-* Email: [officialvaibhav22@gmail.com](mailto:officialvaibhav22@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/xyron](https://www.linkedin.com/in/xyron)
-
----
+###

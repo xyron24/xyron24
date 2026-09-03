@@ -4,7 +4,7 @@
 
 ### 🔧&nbsp; `Languages and Tools`
 
-[![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,express,react,mongodb,python,c++,java)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,express,react,mongodb,python,cpp,java)](https://skillicons.dev)
 ###
 
 
